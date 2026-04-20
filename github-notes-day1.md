@@ -16,3 +16,8 @@
 - Add my first Python file
 - Practice committing changes
 - Learn basic GitHub workflows
+
+## Day2 Warm-up
+-Reviewed my Day 1 files 
+-Learned how to edit an existing file 
+-Getting comfortable with Githubs's workflow
