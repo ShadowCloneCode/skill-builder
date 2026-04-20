@@ -1,17 +1,18 @@
 # GitHub Notes — Day 2
 
 ## What I Learned Today
-- How to edit an existing file
-- How to make update commits
-- How to add new files to the repo
-- How to stay consistent without overwhelm
+- How to create a new Python file
+- How to write a simple interactive program
+- How to use variables and input()
+- How to use f-strings for clean output
 
 ## What I Did Today
-- Updated my Day 1 notes
-- Created a new notes file for Day 2
-- Prepared to add my Day 2 Python file
+- Added `day2.py`
+- Wrote a program that asks for a name and age
+- Practiced committing new files to GitHub
 
 ## Next Steps
-- Add my Day 2 Python script
-- Practice editing code files
-- Continue building confidence with GitHub
+- Add a Day 3 Python script with basic math
+- Learn how to edit code files and commit updates
+- Keep building confidence with GitHub and Python
+
